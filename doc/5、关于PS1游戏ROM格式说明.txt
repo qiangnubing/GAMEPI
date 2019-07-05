@@ -1,0 +1,5 @@
+PS1模拟器能识别的游戏ROM类型有： .cue .cbn .img .iso .m3u .mdf .pbp .toc .z .znx
+
+.bin类型的文件需要生成cue文件才能识别
+
+生成工具请使用MakeCue
